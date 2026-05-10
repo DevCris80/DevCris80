@@ -70,17 +70,22 @@ cristian = {
 
 ## 🚀 Featured Projects
 
-<!-- Puedes actualizar estas secciones con tus repos reales -->
-
-[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=DevCris80&repo=Ecommerce&theme=default&border_color=1D9E75&title_color=1D9E75)](https://github.com/DevCris80/Ecommerce)
+| Repo | Stack | Link |
+|------|-------|------|
+| **Ecommerce** | Python · Backend | [→ Ver repo](https://github.com/DevCris80/Ecommerce) |
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCris80&show_icons=true&theme=default&border_color=1D9E75&icon_color=1D9E75&title_color=1D9E75&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCris80&layout=compact&theme=default&border_color=1D9E75&title_color=1D9E75" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCris80&theme=minimal&color=1D9E75&line=1D9E75&point=1D9E75&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-17-1D9E75?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Dev-178bff?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square"/>
 </p>
 
 ---
