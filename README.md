@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-> *9th-semester Systems & Computing Engineering student @ Universidad Católica de Colombia, focused on backend development with Python.*
+> *10th-semester Systems & Computing Engineering student @ Universidad Católica de Colombia, focused on backend development with Python.*
 
 - 🔭 Currently building REST APIs and exploring scalable backend architectures
 - 📊 Recent experience as **Data Analyst Intern at Distoyota** — dashboards, BI, decision-making support
-- 🎓 3 years as a **programming & math tutor** — I break down complex problems clearly
+- 🎓 4 years as a **programming & math tutor** — I break down complex problems clearly
 - 🔐 Interested in **cybersecurity foundations** and clean code principles
 - 📍 Bogotá, Colombia
 
@@ -73,6 +73,9 @@ cristian = {
 | Repo | Stack | Link |
 |------|-------|------|
 | **Ecommerce** | Python · Backend | [→ Ver repo](https://github.com/DevCris80/Ecommerce) |
+| **Degree Work** | Android · Backend | [→ Ver repo](https://github.com/DevCris80/Degree-Work) |
+| **Barber App** | C# · Backend | [→ Ver repo](https://github.com/DevCris80/BarberApp) |
+| **Cuentas Claras** | Finanzas · Backend | [→ Ver repo](https://github.com/DevCris80/cuentas-claras) |
 
 ---
 
